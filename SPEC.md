@@ -1,4 +1,4 @@
-# System Specification: Latency-Compensated Asynchronous 3D Perception & Grasp Node (`async-grounded-sam2-ros2`)
+# System Specification: Latency-Compensated Asynchronous 3D Perception & Grasp Node (`async-perception-ros2`)
 
 **Status:** Locked for Implementation (v1.0)  
 **Timeline:** 4 Weeks  
@@ -137,7 +137,7 @@ Converts a BOP sequence folder into a deterministic ROS 2 `.mcap` bag file conta
 ## 6. Repository Directory Layout
 
 ```text
-async-grounded-sam2-ros2/
+async-perception-ros2/
 ├── SPEC.md                           # This specification document
 ├── README.md                         # Portfolio landing page: architecture, GIFs, benchmark plots
 ├── .github/
